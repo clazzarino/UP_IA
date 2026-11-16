@@ -1,9 +1,9 @@
-# UP_IA – Detección de insatisfacción de pasajeros (Invistico Airline)
 
-Trabajo práctico de Inteligencia Artificial (Universidad de Palermo)
-
+# Universidad de Palermo
+#Trabajo práctico Integrador de Inteligencia Artificial 
 Grupo 1
 
+# Detección de insatisfacción de pasajeros (Invistico Airline)
 
 ## Contenido
 `TP_IA_insatisfaccion_pasajeros.ipynb`: Notebook en R: EDA, árbol de decisión (`rpart`), red neuronal chica con dropout (`torch` + `luz`) y comparación
