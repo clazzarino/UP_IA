@@ -1,7 +1,7 @@
 
 # Universidad de Palermo
-#Trabajo práctico Integrador de Inteligencia Artificial 
-Grupo 1
+# Trabajo práctico Integrador de Inteligencia Artificial 
+# Grupo 1
 
 # Detección de insatisfacción de pasajeros (Invistico Airline)
 
